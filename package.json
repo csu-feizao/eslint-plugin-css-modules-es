@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-css-modules-es",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Check no default import and camelCaseOnly use of css modules",
   "keywords": [
     "eslint",
