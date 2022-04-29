@@ -1,6 +1,6 @@
 # eslint-plugin-css-modules-es
 
-Check no default import and camelCaseOnly use of css modules
+Check no default import and camelCaseOnly use of css modules, visit this [blog](https://github.com/csu-feizao/blog/issues/1) for more details.
 
 ## Installation
 
@@ -59,5 +59,9 @@ The default extensions is `[".modules.css"]`
 
 * no-default-import-css-modules
 * only-camelcase-key-css-modules
+
+## 📄 License
+
+MIT license
 
 
