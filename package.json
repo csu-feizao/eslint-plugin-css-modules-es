@@ -9,7 +9,15 @@
     "css-modules",
     "css modules"
   ],
-  "author": "csu-feizao",
+  "author": "csu-feizao <2564150105@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csu-feizao/eslint-plugin-css-modules-es"
+  },
+  "bugs": {
+    "url": "https://github.com/csu-feizao/eslint-plugin-css-modules-es/issues"
+  },
+  "homepage": "https://github.com/csu-feizao/eslint-plugin-css-modules-es",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint .",
